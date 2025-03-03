@@ -1,18 +1,18 @@
 .section1 {
-	background-color:#fec5bb
+	background-color:#111111
 ;
 	}
 
 .section4 {
-	background-color: #fcd5ce;
+	background-color: #232323;
 	}
 
 .section3 {
-	background-color: #fae1dd;
+	background-color: #343434;
 	}
 .section2 {
 	background-color: 
-#f8edeb;
+#464646;
 	}
 
 .card, .card-img-top {
@@ -24,5 +24,5 @@
 }
 
 .text-center {
-	color: grey;
+	color: WHITE;
 }
